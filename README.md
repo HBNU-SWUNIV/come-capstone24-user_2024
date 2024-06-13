@@ -7,18 +7,24 @@
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - 디지털 기술 사용이 늘어나면서 디지털 기술에 적응하지 못한 노인들이 생황에 어려움을 겪는 상황 발생
 - ### 기존 해결책의 문제점
-  - OOO
-  - OOO
+  - 센터나 도서관 등에서 하는 교육 > 신체적, 상황적 제약이 존재
+  - 이동 교육 센터 > 신체적 제약은 해소되었으나 반복적으로 학습활동이 불가
+- ### 프로젝트 목표
+  - 유니티를 사용하여 신체적, 상황적 제약이 덜한 상황에서 반복을 통해 디지털 기술에 적응할 수 있도록 한다.
   
 ## System Design
-  - ### System Requirements
-    - OOO
-    - OOO
+  - ### 개발도구 : 유니티 (C#), my SQL
+  - ### 프로젝트 개요
+    - 유니티를 사용하여 3D환경에서 디지털 기술을 학습할 수 있도록 한다.
+    - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
+  - ### 시스템 구성도
+    - ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
+![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
+
     
-## Case Study
+## in-game
   - ### Description
   
   
