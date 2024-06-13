@@ -20,16 +20,19 @@
     - 유니티를 사용하여 3D환경에서 디지털 기술을 학습할 수 있도록 한다.
     - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
   - ### 시스템 구성도
-    - ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
 
     
 ## in-game
-  - ### Description
-  
+  - ### 인게임 화면
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/2bedf46d-e180-4e57-a14a-37374d7511a3)
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a52c653a-4df1-4848-a442-471f8e3eb7d9)
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/dce5195f-ea56-4827-be43-b164ac75a391)
+
+
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  - ### 기대효과
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 
