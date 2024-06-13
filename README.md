@@ -21,7 +21,6 @@
     - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
   - ### 시스템 구성도
     - ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
-![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
 
     
 ## in-game
