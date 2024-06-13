@@ -26,6 +26,7 @@
 ## in-game
   - ### 인게임 화면
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/2bedf46d-e180-4e57-a14a-37374d7511a3)
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a929b596-3cf9-4b3f-9e35-6cafadb52019)
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a52c653a-4df1-4848-a442-471f8e3eb7d9)
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/dce5195f-ea56-4827-be43-b164ac75a391)
 
