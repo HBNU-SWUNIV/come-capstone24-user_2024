@@ -20,18 +20,20 @@
     - 유니티를 사용하여 3D환경에서 디지털 기술을 학습할 수 있도록 한다.
     - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
   - ### 시스템 구성도
-   ![시스템구성도](https://github.com/user-attachments/assets/64a6a839-3e6b-4547-b27c-e4eca01266d3)
+   ![시스템구성도](https://github.com/user-attachments/assets/89b1129a-73b9-4132-981d-5165ee2aafbe)
+
 
 
     
 ## in-game
   - ### 인게임 화면
-    ![image](https://github.com/user-attachments/assets/0ddcb28c-fc7b-4874-b738-205f1a4bae24)
-    ![image](https://github.com/user-attachments/assets/712fb385-7aff-478b-8c2f-d36c2bdf4942)
-    ![image](https://github.com/user-attachments/assets/b6d1d140-1c14-4b91-971b-36e3971a084f)
-    ![image](https://github.com/user-attachments/assets/b52c595d-15ba-426e-afba-27795e978a01)
-    ![image](https://github.com/user-attachments/assets/b2a839ea-277e-4abb-ae33-1d4bb1161798)
-    ![image](https://github.com/user-attachments/assets/1f733980-82ed-4805-a209-35e47a5923f3)
+    ![image](https://github.com/user-attachments/assets/942a1f35-ab94-4f2e-861d-72b0e1168ec5)
+    ![image](https://github.com/user-attachments/assets/e9497e7b-5f60-4636-8042-95521991c332)
+    ![image](https://github.com/user-attachments/assets/8d11b803-1e92-4858-be02-fff3fc7e9267)
+    ![image](https://github.com/user-attachments/assets/7ef3672b-4deb-4dd6-adf2-1901ef7d707e)
+    ![image](https://github.com/user-attachments/assets/b525acbf-f785-4a4b-bc4d-143a84b2053d)    
+    ![image](https://github.com/user-attachments/assets/a81ed4c9-94c4-4567-9827-1a44d16f7571)
+
 
 
   
