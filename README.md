@@ -15,7 +15,7 @@
   - 유니티를 사용하여 신체적, 상황적 제약이 덜한 상황에서 반복을 통해 디지털 기술에 적응할 수 있도록 한다.
   
 ## System Design
-  - ### 개발도구 : 유니티 (C#), my SQL
+  - ### 개발도구 : 유니티 (C#) -, my SQL-
   - ### 프로젝트 개요
     - 유니티를 사용하여 3D환경에서 디지털 기술을 학습할 수 있도록 한다.
     - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
@@ -25,7 +25,7 @@
     
 ## in-game
   - ### 인게임 화면
-    ![KakaoTalk_20241024_190748743](https://github.com/user-attachments/assets/994760af-3ca7-4607-ade7-9cf2a78cc5c7)
+    ![KakaoTalk_20241024_191440492_01](https://github.com/user-attachments/assets/a1eda36f-75d0-4668-a798-8626c0928856)
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/2bedf46d-e180-4e57-a14a-37374d7511a3)
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a929b596-3cf9-4b3f-9e35-6cafadb52019)
     ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a52c653a-4df1-4848-a442-471f8e3eb7d9)
