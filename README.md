@@ -20,15 +20,18 @@
     - 유니티를 사용하여 3D환경에서 디지털 기술을 학습할 수 있도록 한다.
     - 플레이 방식을 최대한 간결하게여, 디지털 기술에 익숙치 않은 고령층도 쉽게 플레이할 수 있도록 한다. 게임이 갖는 가장 큰 장점인 높은 접근성을 통해 많은 고령층 사람들이 상황적 ․ 신체적 제약 없이 디지털 기술을 체험 또는 학습하여, 고령층의 디지털 수준을 높이는 효과를 기대할 수 있다.
   - ### 시스템 구성도
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/7727768a-dc1b-4bdb-9327-6a7c023bcfb8)
+   ![시스템구성도](https://github.com/user-attachments/assets/64a6a839-3e6b-4547-b27c-e4eca01266d3)
+
 
     
 ## in-game
   - ### 인게임 화면
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/2bedf46d-e180-4e57-a14a-37374d7511a3)
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a929b596-3cf9-4b3f-9e35-6cafadb52019)
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/a52c653a-4df1-4848-a442-471f8e3eb7d9)
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone24-user_2024/assets/84272168/dce5195f-ea56-4827-be43-b164ac75a391)
+    ![image](https://github.com/user-attachments/assets/0ddcb28c-fc7b-4874-b738-205f1a4bae24)
+    ![image](https://github.com/user-attachments/assets/712fb385-7aff-478b-8c2f-d36c2bdf4942)
+    ![image](https://github.com/user-attachments/assets/b6d1d140-1c14-4b91-971b-36e3971a084f)
+    ![image](https://github.com/user-attachments/assets/b52c595d-15ba-426e-afba-27795e978a01)
+    ![image](https://github.com/user-attachments/assets/b2a839ea-277e-4abb-ae33-1d4bb1161798)
+    ![image](https://github.com/user-attachments/assets/1f733980-82ed-4805-a209-35e47a5923f3)
 
 
   
